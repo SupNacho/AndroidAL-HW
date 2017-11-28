@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AndAL-HW1</string>
+    <string name="title_menu_add">ADD</string>
+    <string name="title_menu_clear">CLEAR</string>
+    <string name="menu_edit">EDIT</string>
+    <string name="menu_context_delete">DELETE</string>
+    <string name="button_go_next_activity">Go next activity</string>
+    <string name="buttno_pop_up_menu">POP-UP menu</string>
+</resources>
